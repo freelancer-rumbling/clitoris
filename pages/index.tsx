@@ -27,7 +27,7 @@ export default function Home() {
             COIN
           </h1>
           <p>
-            Step into a universe where beats drop harder than your ex’s
+            Step into a universe where beats drop harder than your ex&apos;s
             promises, and gameplay feels like foreplay. Join the cult of
             sweaty-fingered legends, where every click is a love language and
             every level-up is a cosmic “OHHH YES.”
@@ -70,10 +70,11 @@ export default function Home() {
           <p>
             Clitoris Coin is here to stimulate your senses — blending music,
             mechanics, and madness into a climax of pure gaming ecstasy. This
-            ain’t your grandma’s crypto.We’re talking real pleasure Join a
-            community of skilled players who know how to hit the right
-            buttons.Because in this universe, your reflexes aren't just fast —
-            they're foreplay. Clytoris Coin. Touch it. Play it. Profit from it.
+            ain&apos;t your grandma&apos;s crypto.We&apos;re talking real
+            pleasure Join a community of skilled players who know how to hit the
+            right buttons.Because in this universe, your reflexes aren&apos;t
+            just fast — they&apos;re foreplay. Clytoris Coin. Touch it. Play it.
+            Profit from it.
           </p>
         </div>
       </section>
